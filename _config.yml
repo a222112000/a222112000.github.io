@@ -1,1 +1,4 @@
-include:[".well-known"]
+theme: jekyll-theme-minimal
+title: Coil
+description: Social connection
+include: [".well-known"]
