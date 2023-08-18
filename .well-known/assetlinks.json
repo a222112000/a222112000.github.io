@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.alselwi.coil",
-    "sha256_cert_fingerprints":
-    ["79:20:B1:FE:A0:5F:8D:77:6C:C9:E0:43:8B:DE:B0:08:D0:1E:7C:DA:8A:CD:B2:DA:42:89:E8:C2:41:64:B8:85"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alselwi.coil",
+      "sha256_cert_fingerprints":
+      ["41:BE:A9:C3:FC:04:8F:00:01:59:A7:3B:DF:CB:27:7A:C2:CC:25:71:2C:63:2F:61:4D:56:E6:D7:BA:3C:87:CC"]
+    }
   }
-}]
+]
