@@ -1,5 +1,5 @@
 <?php
-    include_once("common.html");
+    include_once "common.html";
 ?>
 <div class="container mb-3 mt-3 bg-dark">
 
